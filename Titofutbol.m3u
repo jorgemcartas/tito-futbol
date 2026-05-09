@@ -160,6 +160,16 @@ http://127.0.0.1:6878/ace/getstream?id=b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 4K f66d --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN MOTOGP 502d --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=11cbb5346d28af0b972e646832f4be23dd39502d
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN MOTOGP FHD 5d56 --> NEW ERA VI
+http://127.0.0.1:6878/ace/getstream?id=18b03739d660f0066364343e226e437bf2555d56
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Dazn MotoGP FHDp * 558c --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Dazn MotoGP SDp * 9137 --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=ac33342ccf7d40d46174229085461d95000b9137
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Dazn MotoGP FHDp ** 2028 --> ELCANO
+http://127.0.0.1:6878/ace/getstream?id=342ca6975a4884d81f9fec5c4085a47060bd2028
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Liga_Endesa_2019_logo.svg/1200px-Liga_Endesa_2019_logo.svg.png" tvg-id="" group-title="OTROS", ACB EVENTO 01 ** 0d75 --> ELCANO
 http://127.0.0.1:6878/ace/getstream?id=53962d7fb865aff73b34a3afb2905cd492f60d75
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Liga_Endesa_2019_logo.svg/1200px-Liga_Endesa_2019_logo.svg.png" tvg-id="" group-title="OTROS", ACB EVENTO 01 ** bdb2 --> ELCANO
