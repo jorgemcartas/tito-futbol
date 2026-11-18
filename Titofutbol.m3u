@@ -144,6 +144,10 @@ http://127.0.0.1:6878/ace/getstream?id=535b353f94a275ca60ab176c0633ecbb561b41f2
 http://127.0.0.1:6878/ace/getstream?id=81726596472933c3dfc9b3cd31fef7d0716c8ba4
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2026/05/movistar_baloncesto_logo-1024x576.jpg" tvg-id="M+ Baloncesto" group-title="OTROS", Movistar Baloncesto 188f --> NUEVO
 http://127.0.0.1:6878/ace/getstream?id=28360e214f0cae450e9aaa8753c5be455109188f
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2026/05/movistar_baloncesto_logo-1024x576.jpg" tvg-id="M+ Baloncesto" group-title="OTROS", Movistar Baloncesto 912e --> NUEVO 1080p
+http://127.0.0.1:6878/ace/getstream?id=d9e468180fcd3dcd45141dc09f56ea21eb88912e
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2026/05/movistar_baloncesto_logo-1024x576.jpg" tvg-id="M+ Baloncesto" group-title="OTROS", Movistar Baloncesto e6fa --> NUEVO 1080p
+http://127.0.0.1:6878/ace/getstream?id=31f2a257cd226d80339342c449d76339b4a1e6fa
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 1 (1RFEF)" group-title="1RFEF", Canal 1 (1RFEF) (SOLO EVENTOS) 437d --> NEW ERA V
 http://127.0.0.1:6878/ace/getstream?id=c1ee6e1e0ef5928d8261f855c417de21794f437d
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 2 (1RFEF)" group-title="1RFEF", Canal 2 (1RFEF) (SOLO EVENTOS) 74cf --> NEW ERA V
