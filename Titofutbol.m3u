@@ -136,8 +136,12 @@ http://127.0.0.1:6878/ace/getstream?id=ee4646aae30d862e0d9d453998a344a60aaa7cde
 http://127.0.0.1:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2025/12/baloncesto.png?w=794&ssl=1" tvg-id="DAZN Baloncesto" group-title="OTROS", DAZN Baloncesto 4dc5 --> NUEVO
 http://127.0.0.1:6878/ace/getstream?id=788891525283f541893b809c54d1b9cbe2344dc5
-#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2025/12/baloncesto.png?w=794&ssl=1" tvg-id="DAZN Baloncesto" group-title="OTROS", DAZN Baloncesto 3027 --> NUEVO
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2025/12/baloncesto.png?w=794&ssl=1" tvg-id="DAZN Baloncesto" group-title="OTROS", DAZN Baloncesto 3027 --> NUEVO 1080p
 http://127.0.0.1:6878/ace/getstream?id=e1e543b882178ea985f27285ec87c698d6553027
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2025/12/baloncesto.png?w=794&ssl=1" tvg-id="DAZN Baloncesto" group-title="OTROS", DAZN Baloncesto 41f2 --> NUEVO 1080p
+http://127.0.0.1:6878/ace/getstream?id=535b353f94a275ca60ab176c0633ecbb561b41f2
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2025/12/baloncesto.png?w=794&ssl=1" tvg-id="DAZN Baloncesto" group-title="OTROS", DAZN Baloncesto 8ba4 --> NUEVO 720p
+http://127.0.0.1:6878/ace/getstream?id=81726596472933c3dfc9b3cd31fef7d0716c8ba4
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2026/05/movistar_baloncesto_logo-1024x576.jpg" tvg-id="M+ Baloncesto" group-title="OTROS", Movistar Baloncesto 188f --> NUEVO
 http://127.0.0.1:6878/ace/getstream?id=28360e214f0cae450e9aaa8753c5be455109188f
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 1 (1RFEF)" group-title="1RFEF", Canal 1 (1RFEF) (SOLO EVENTOS) 437d --> NEW ERA V
