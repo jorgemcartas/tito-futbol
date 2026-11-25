@@ -132,6 +132,8 @@ http://127.0.0.1:6878/ace/getstream?id=cf5327fe9c962a29dfff3868f4349ff2b0b4662f
 http://127.0.0.1:6878/ace/getstream?id=af393f93814d03160d48d2730759593b7bea5b47
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES FHD 355d --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 HD 52b5 --> SPORT TV
+http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 b090 --> NUEVO
 http://127.0.0.1:6878/ace/getstream?id=71e56f0315a20d87c3c472dcfbe4cc2c875db090
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 3810 --> NUEVO
@@ -538,8 +540,6 @@ http://127.0.0.1:6878/ace/getstream?id=3774d8feab016ca766b35ea8488e7514ca30e0ee
 http://127.0.0.1:6878/ace/getstream?id=890901fa742b19d8808cf49f19db2d3016437c56
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 72b0 --> ELCANO
 http://127.0.0.1:6878/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 HD 52b5 --> SPORT TV
-http://127.0.0.1:6878/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 3 d534 --> ELCANO
 http://127.0.0.1:6878/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd534
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 3 FHD 4eee --> NEW ERA
