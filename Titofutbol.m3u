@@ -112,6 +112,8 @@ http://127.0.0.1:6878/ace/getstream?id=bf63a4c8b96f3f75100c6863368bb142d6c67633
 http://127.0.0.1:6878/ace/getstream?id=49545d05f95846e93fd8f08da320be866995c550
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 e0cb --> ELCANO
 http://127.0.0.1:6878/ace/getstream?id=f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES FHD c2b3 --> SPORT TV
+http://127.0.0.1:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 5aca --> NUEVO
 http://127.0.0.1:6878/ace/getstream?id=403354bfa8ec7769589b18977c22b99f1cae5aca
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES d1d0 --> NUEVO 1080p
